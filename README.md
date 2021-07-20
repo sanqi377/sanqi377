@@ -1,7 +1,6 @@
 ## Sup Guys 👋
 
-<img align="right" src="https://count.getloli.com/get/@:sanqi377?theme=rule34">
-I'm [sanqi](https://xxx). My major is Computer information management👨‍💻. I was born and live in GanSu China. My hobby is Knock code, play games and editing.
+<img align="right" src="https://count.getloli.com/get/@:sanqi377?theme=rule34">I'm [SanQi](https://www.baidu.com). My major is Computer information management👨‍💻. I was born and live in GanSu China. My hobby is Knock code, play games and editing.
 
 ## About
 <img align="right" src="https://github-readme-stats-hassan.vercel.app/api?username=sanqi377&theme=dark&show_icons=true&count_private=true">
