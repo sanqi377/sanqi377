@@ -1,4 +1,4 @@
-## Sup Guys 👋
+## Hi Guys 👋
 
 <img align="right" src="https://count.getloli.com/get/@:sanqi377?theme=rule34">I'm [SanQi](https://www.baidu.com). My major is Computer information management👨‍💻. I was born and live in GanSu China. My hobby is Knock code, play games and editing.
 
