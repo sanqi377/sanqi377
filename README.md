@@ -11,3 +11,5 @@
 <!-- 📃 My document: https://doc.hassanwong.top -->
 
 📫 How to contact me: sanqi377@outlook.com
+
+⏳ I want to find a job as a web front-end engineer. If HR thinks I'm good, please contact me.
