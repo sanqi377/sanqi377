@@ -4,7 +4,8 @@
 
 ## About
 <img align="right" src="https://github-readme-stats-hassan.vercel.app/api?username=sanqi377&theme=dark&show_icons=true&count_private=true">
-<!-- 👨‍💻 My blog: https://hassanwong.top -->
+
+👨‍💻 My blog: https://www.qblog.cc
 
 <!-- 🚀 My navigation: https://navi.hassanwong.top -->
 
