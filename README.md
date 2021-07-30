@@ -11,7 +11,7 @@
 
 <!-- 📃 My document: https://www.baidu.com -->
 
-📫 How to contact me: sanqi377@outlook.com
+📫 My email: sanqi377@outlook.com
 
 ⏳ I want to find a job as a web front-end engineer. If HR thinks I'm good, please contact me.
 
