@@ -7,9 +7,9 @@
 
 👨‍💻 My blog: https://www.qblog.cc
 
-<!-- 🚀 My navigation: https://navi.hassanwong.top -->
+<!-- 🚀 My navigation: https://www.baidu.com -->
 
-<!-- 📃 My document: https://doc.hassanwong.top -->
+<!-- 📃 My document: https://www.baidu.com -->
 
 📫 How to contact me: sanqi377@outlook.com
 
