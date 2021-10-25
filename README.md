@@ -7,14 +7,7 @@
 
 👨‍💻 My blog: https://www.qblog.cc
 
-🚀 My blibli: https://space.bilibili.com/403379471
-
-<!-- 📃 My document: https://www.baidu.com -->
-
 📫 My email: sanqi377@outlook.com
-
-⏳ I want to find a job as a web front-end engineer. If HR thinks I'm good, please contact me.
-
 
 ----
 
